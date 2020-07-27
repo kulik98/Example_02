@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example_02</string>
+    <string name="entertext">Enter text</string>
+    <string name="magic">Magic</string>
+</resources>
